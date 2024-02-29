@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "items": [
+      {
+        "id": 0,
+        "name": "oie_3PO4wZS07VrV.png",
+        "type": "image",
+        "category": "images",
+        "source": "http://localhost:3002/common_components/images/oie_3PO4wZS07VrV.png",
+        "duration": 5,
+        "playbackspeed": 1,
+        "styles": {
+          "id": 0,
+          "pageId": 1,
+          "styles": {
+            "parent": "",
+            "childchild": ""
+          }
+        },
+        "operation": "",
+        "start": 0,
+        "end": 5,
+        "transition": {
+          "name": "none",
+          "direction": "none"
+        },
+        "isOld": false
+      }
+    ],
+    "duration": 5
+  }
+]
